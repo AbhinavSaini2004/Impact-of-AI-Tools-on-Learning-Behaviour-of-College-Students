@@ -1,4 +1,10 @@
-# Impact-of-AI-Tools-on-Learning-Behaviour-of-College-Students
+# Impact-of-AI-Tools-on-Learning-Behaviour-of-College-Students 
+
+
+|          Abhinav Saini          |         Shaurya Abrol           |          Sarthak Yadav          |         Shivangi Sisodia          |
+|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|
+|          2210990039             |           2210990815            |            2210990803           |             2210990828            |
+| abhinav39.be22@chitkara.edu.in  | shaurya815.be22@chitkara.edu.in | sarthak803.be22@chitkara.edu.in | shivangi828.be22@chitkara.edu.in  |
 
 
 Abstract: Artificial Intelligence (AI) tools such as ChatGPT, Google Bard, and GitHub Copilot are increasingly being adopted by college students for academic purposes. These tools provide instant explanations, assist in assignment generation, support coding tasks, and facilitate research activities. With the rapid proliferation of AI-driven platforms, traditional learning paradigms are undergoing a fundamental transformation: students are no longer solely dependent on textbooks and classroom lectures but are actively integrating AI assistants into their daily study routines. Despite the undeniable productivity gains, critical concerns have emerged regarding over-dependence, reduced analytical rigour, and erosion of independent problem-solving capabilities.
