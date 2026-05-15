@@ -1,4 +1,5 @@
-# Impact-of-AI-Tools-on-Learning-Behaviour-of-College-Students SUBMITTED BY - Abhinav Saini - 2210990039 - abhinav39.be22@chitkara.edu.in
+SUBMITTED BY - Abhinav Saini - 2210990039 - abhinav39.be22@chitkara.edu.in
+# Impact-of-AI-Tools-on-Learning-Behaviour-of-College-Students 
 
 
 Team members - 
